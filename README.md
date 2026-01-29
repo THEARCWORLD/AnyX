@@ -6,7 +6,7 @@
 - 测试设备：一加Ace2Pro
 - 内存：2048MB
 - 处理器：SnapDragon8Gen2
-- 渲染器：Mobile Glues
+- 渲染器：Mobile Glues/LTW改版
 - 分辨率：1163*572
 ### 截图
 ![1000017416](https://github.com/user-attachments/assets/73814833-1e68-4380-8200-076b0b6f4043)
