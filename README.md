@@ -9,7 +9,10 @@
 - 渲染器：Mobile Glues
 - 分辨率：1163*572
 ### 截图
-
+![1000017416](https://github.com/user-attachments/assets/73814833-1e68-4380-8200-076b0b6f4043)
+![1000017410](https://github.com/user-attachments/assets/ab4f8651-e09d-4fbf-8ae6-2c1a6b4b87f4)
+![1000017303](https://github.com/user-attachments/assets/5a247da6-01b4-4c11-b58e-aed8128d558d)
+![1000017279](https://github.com/user-attachments/assets/bcd03e20-3433-4b3b-b246-17c7a249e377)
 ### 版本
 1. v26.0alpha-mc1.21.10
 
